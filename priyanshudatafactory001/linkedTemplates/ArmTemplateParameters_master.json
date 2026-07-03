@@ -1,0 +1,33 @@
+{
+	"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {
+		"factoryName": {
+			"value": "priyanshudatafactory001"
+		},
+		"LS_SQL server_password": {
+			"value": ""
+		},
+		"ls_ADLS_accountKey": {
+			"value": ""
+		},
+		"LS_SQL server_properties_typeProperties_server": {
+			"value": "priyanshudfpro.database.windows.net"
+		},
+		"LS_SQL server_properties_typeProperties_database": {
+			"value": "Priyanshu_DB"
+		},
+		"LS_SQL server_properties_typeProperties_userName": {
+			"value": "priyanshu"
+		},
+		"ls_ADLS_properties_typeProperties_url": {
+			"value": "https://priyanshustorageaccount.dfs.core.windows.net/"
+		},
+		"containerUri": {
+			"value": ""
+		},
+		"containerSasToken": {
+			"value": ""
+		}
+	}
+}
