@@ -1,0 +1,13 @@
+{
+	"name": "DS_Watermark_SQL",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "LS_SQL server",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "SqlServerTable",
+		"schema": []
+	},
+	"type": "Microsoft.DataFactory/factories/datasets"
+}

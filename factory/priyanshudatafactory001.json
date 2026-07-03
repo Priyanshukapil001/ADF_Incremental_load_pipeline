@@ -1,0 +1,15 @@
+{
+	"name": "priyanshudatafactory001",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "6755fffb-ac9f-4809-9c47-550159f8587e",
+		"tenantId": "f0883d1d-e78b-4b49-a935-1dbf2dcfc865"
+	}
+}
