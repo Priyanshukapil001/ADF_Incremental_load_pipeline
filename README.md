@@ -131,31 +131,6 @@ If any activity fails
 
 ---
 
-# 📂 Repository Structure
-
-```
-ADF_Incremental_Load_Pipeline
-│
-├── pipeline/
-├── dataset/
-├── linkedService/
-├── integrationRuntime/
-├── trigger/
-├── images/
-│     ├── architecture.png
-│     ├── pipeline.png
-│     ├── pipeline_run.png
-│     ├── success_mail.png
-│     ├── failure_mail.png
-│     ├── source_table.png
-│     ├── target_table.png
-│     └── last_updated_log.png
-│
-└── README.md
-```
-
----
-
 # 📸 Architecture Diagram
 
 ![Architecture](images/architecture.png)
@@ -170,25 +145,15 @@ ADF_Incremental_Load_Pipeline
 
 # 📸 Pipeline Execution
 
-![Pipeline Execution](images/pipeline_run.png)
+![Pipeline Execution](<img width="947" height="372" alt="image" src="https://github.com/user-attachments/assets/e2d42c45-1bbf-4f30-885f-a6a28859207e" />
+)
 
----
-
-# 📸 Source Table
-
-![Source Table](images/source_table.png)
-
----
-
-# 📸 Target Table
-
-![Target Table](images/target_table.png)
 
 ---
 
 # 📸 last_updated_log Table
 
-![last_updated_log](images/last_updated_log.png)
+<img width="602" height="83" alt="image" src="https://github.com/user-attachments/assets/dbafaf5d-69e9-4f9e-8f7f-f558da212b5a" />
 
 ---
 
@@ -196,13 +161,15 @@ ADF_Incremental_Load_Pipeline
 
 ## ✅ Success Email
 
-![Success Email](images/success_mail.png)
+![Success Email](<img width="1526" height="397" alt="image" src="https://github.com/user-attachments/assets/951bf74b-a9b8-4cf0-86d8-29540c1b2870" />
+)
 
 ---
 
 ## ❌ Failure Email
 
-![Failure Email](images/failure_mail.png)
+![Failure Email](<img width="1512" height="321" alt="image" src="https://github.com/user-attachments/assets/d4112d61-36f0-45ce-b04f-0c26eff2e038" />
+)
 
 ---
 
