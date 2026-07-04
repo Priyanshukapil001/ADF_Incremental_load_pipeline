@@ -133,21 +133,14 @@ If any activity fails
 
 # 📸 Architecture Diagram
 
-![Architecture](images/architecture.png)
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/28e0578f-babe-4b29-b964-2c5cb220bfcd" />
+
 
 ---
 
 # 📸 ADF Pipeline
 
-![ADF Pipeline](images/pipeline.png)
-
----
-
-# 📸 Pipeline Execution
-
-![Pipeline Execution](<img width="947" height="372" alt="image" src="https://github.com/user-attachments/assets/e2d42c45-1bbf-4f30-885f-a6a28859207e" />
-)
-
+<img width="947" height="372" alt="image" src="https://github.com/user-attachments/assets/e2d42c45-1bbf-4f30-885f-a6a28859207e" />
 
 ---
 
@@ -161,15 +154,13 @@ If any activity fails
 
 ## ✅ Success Email
 
-![Success Email](<img width="1526" height="397" alt="image" src="https://github.com/user-attachments/assets/951bf74b-a9b8-4cf0-86d8-29540c1b2870" />
-)
+<img width="1526" height="397" alt="image" src="https://github.com/user-attachments/assets/951bf74b-a9b8-4cf0-86d8-29540c1b2870" />
 
 ---
 
 ## ❌ Failure Email
 
-![Failure Email](<img width="1512" height="321" alt="image" src="https://github.com/user-attachments/assets/d4112d61-36f0-45ce-b04f-0c26eff2e038" />
-)
+<img width="1512" height="321" alt="image" src="https://github.com/user-attachments/assets/d4112d61-36f0-45ce-b04f-0c26eff2e038" />
 
 ---
 
@@ -200,41 +191,12 @@ The framework stores every successful execution inside the **last_updated_log** 
 
 ---
 
-# 🚀 Getting Started
-
-## Prerequisites
-
-- Azure Subscription
-- Azure Data Factory
-- Azure SQL Database
-- SQL Server Management Studio (SSMS)
-- GitHub Repository
-
-## Steps
-
-1. Clone this repository.
-2. Import the ADF pipeline.
-3. Configure Azure SQL linked services.
-4. Create Source, Target and **last_updated_log** tables.
-5. Update pipeline parameters.
-6. Trigger the pipeline.
-7. Verify:
-   - Target table
-   - last_updated_log table
-   - Email notifications
-   - Pipeline Monitor
-
----
-
 # 📈 Future Enhancements
 
 - Azure Key Vault Integration
-- Change Data Capture (CDC)
 - Metadata Configuration Table
 - Parallel Table Processing
 - Azure Monitor Integration
-- Microsoft Teams Notifications
-- Logging Dashboard
 - CI/CD using GitHub Actions
 
 ---
