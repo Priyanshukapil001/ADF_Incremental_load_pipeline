@@ -1,5 +1,5 @@
 {
-	"name": "Data_Ingestion_DataLake",
+	"name": "Data_Ingestion",
 	"properties": {
 		"activities": [
 			{
